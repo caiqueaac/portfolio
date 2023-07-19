@@ -55,5 +55,6 @@
     background-color: var(--segunda-cor);
     scroll-margin-top: 15rem;
     padding: 0;
+    margin: 0;
   }
 }

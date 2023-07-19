@@ -34,5 +34,6 @@ footer .footer__content .footer__copyright {
 @media only screen and (max-width: 768px) {
  footer {
   padding: 0;
+  margin: 0;
  }
 }
