@@ -98,20 +98,12 @@ margin: 3rem auto 6rem;
     flex-direction: column;
   }
 
-  .projects {
-    margin: 0;
-    margin-bottom: 16rem;
-    padding: 0;
-  }
-
   .projects ul li .projects__info {
     max-width: 66rem;
   }
 
   .projects ul li .image img {
-    width: 100%;
-    height: auto;
-    border-radius: 10px;
+    min-width: auto;
   }
 
   .projects ul li .projects__info h3, p {
@@ -119,15 +111,4 @@ margin: 3rem auto 6rem;
     overflow: hidden;
     max-height: 120px;
   }
-
-  .card {
-    background-color: var(--segunda-cor);
-    height: 100%;
-    width: 100%;
-    border-radius: 10px;
-    padding: 20px 35px;
-    text-align: center;
-    cursor: pointer;
-    margin-left: 0;
-  }  
 }
