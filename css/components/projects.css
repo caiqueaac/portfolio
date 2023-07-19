@@ -96,6 +96,7 @@ margin: 3rem auto 6rem;
   .projects ul li,
   .projects ul li.projects__reversed-list {
     flex-direction: column;
+    align-items: center;
   }
 
   .projects ul li .projects__info {
