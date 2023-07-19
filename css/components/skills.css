@@ -54,6 +54,6 @@
 
   .skills {
     background-color: var(--segunda-cor);
-    width: 100%;
+    width: 100vh;
   }
 }
