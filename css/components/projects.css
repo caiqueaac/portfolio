@@ -104,8 +104,6 @@ margin: 3rem auto 6rem;
 
   .projects ul li .image img {
     width: 100%;
-    min-width: 40rem;
-    max-width: 47rem;
     height: auto;
     border-radius: 10px;
   }
