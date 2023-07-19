@@ -112,10 +112,7 @@ margin: 3rem auto 6rem;
     max-height: 120px;
   }
 
-  .projects ul {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    align-items: center;
+  .projects {
+    padding: 0;
   }
 }
