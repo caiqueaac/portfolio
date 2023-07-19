@@ -102,7 +102,7 @@ p:not(:last-of-type),
   }
 
   .max-width {
-    padding: 0 2rem;
+    padding: 0;
   }
 }
 
