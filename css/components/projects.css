@@ -98,6 +98,11 @@ margin: 3rem auto 6rem;
     flex-direction: column;
   }
 
+  .projects {
+    margin: 0;
+    margin-bottom: 16rem;
+  }
+
   .projects ul li .projects__info {
     max-width: 66rem;
   }
