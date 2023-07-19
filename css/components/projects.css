@@ -121,15 +121,4 @@ margin: 3rem auto 6rem;
     display: flex;
     align-items: center;
   }
-
-  .card {
-    width: 50%;
-  }
-
-  .projects ul li .card .image img {
-    display: flex;
-    min-width: 30rem;
-    max-width: 47rem;
-    width: 100%;
-  }
 }
