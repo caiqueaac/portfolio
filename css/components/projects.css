@@ -111,4 +111,18 @@ margin: 3rem auto 6rem;
     overflow: hidden;
     max-height: 120px;
   }
+
+  .card {
+    background-color: var(--segunda-cor);
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+    padding: 20px 35px;
+    text-align: center;
+    cursor: pointer;
+    max-width: 66rem;
+    max-height: 66rem;
+    min-width: 30rem;
+    min-height: 30rem;
+  }  
 }
