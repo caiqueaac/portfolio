@@ -116,4 +116,13 @@ margin: 3rem auto 6rem;
   .projects {
     padding: 0;
   }
+
+  .projects ul li {
+    display: flex;
+    align-items: center;
+  }
+
+  .card {
+    width: 90%;
+  }
 }
