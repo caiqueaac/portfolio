@@ -51,4 +51,9 @@
     overflow: hidden;
     max-height: 120px;
   }
+
+  .skills {
+    background-color: var(--segunda-cor);
+    width: 100%;
+  }
 }
