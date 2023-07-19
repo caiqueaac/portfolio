@@ -110,7 +110,7 @@ margin: 3rem auto 6rem;
   .projects ul li .projects__info h3, p {
     word-break: break-word;
     overflow: hidden;
-    max-height: 120px;
+    max-height: 140px;
   }
 
   .projects {
