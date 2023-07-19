@@ -101,6 +101,7 @@ margin: 3rem auto 6rem;
   .projects {
     margin: 0;
     margin-bottom: 16rem;
+    padding: 0;
   }
 
   .projects ul li .projects__info {
@@ -127,5 +128,6 @@ margin: 3rem auto 6rem;
     padding: 20px 35px;
     text-align: center;
     cursor: pointer;
+    margin-left: 0;
   }  
 }
