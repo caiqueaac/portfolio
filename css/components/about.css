@@ -57,4 +57,10 @@
   .about .about__right {
     text-align: center;
   }
+
+  .about .about__right p {
+    word-break: break-word;
+    overflow: hidden;
+    max-height: 160px;
+  }
 }
