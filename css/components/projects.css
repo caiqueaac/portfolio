@@ -111,4 +111,11 @@ margin: 3rem auto 6rem;
     overflow: hidden;
     max-height: 120px;
   }
+
+  .projects ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+  }
 }
